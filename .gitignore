@@ -1,2 +1,4 @@
 resources/
 .ipynb_checkpoints/
+/keras-master
+MNIST_data/
